@@ -58,7 +58,7 @@ limitation that affects taping boundary quality.
 ├── predict.py      # Inference, mask saving
 ├── report.py       # Visual examples, training curves
 ├── main.py         # End-to-end pipeline
-└── show_taping.py  # Visualise taping results from saved checkpoint
+└── taping.py       # Visualise taping results from saved checkpoint
 ```
 
 ---
