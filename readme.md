@@ -1,4 +1,4 @@
-# Prompted Segmentation for Drywall QA
+# Prompted Segmentation for Drywall 
 
 Fine-tuning CLIPSeg to produce binary segmentation masks from natural language prompts.
 Given an image and a text prompt, the model outputs a mask highlighting the described region.
