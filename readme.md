@@ -15,7 +15,8 @@ pip install torch torchvision transformers scikit-learn matplotlib tqdm pillow o
 ```
 
 Tested on Python 3.12, PyTorch 2.x, macOS (Apple Silicon MPS).
-
+The code automatically detects your device. MPS is used on Apple Silicon, 
+CUDA on NVIDIA GPUs, and CPU as fallback. 
 ---
 
 ## Data
